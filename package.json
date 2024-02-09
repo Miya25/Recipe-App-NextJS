@@ -9,7 +9,7 @@
 		"format": "prettier -w ./**/**/*.{ts,tsx,js,jsx}"
 	},
 	"dependencies": {
-		"@tanstack/react-query": "^4.2.3",
+		"@tanstack/react-query": "^4.36.1",
 		"@tanstack/react-query-devtools": "^4.2.3",
 		"axios": "^0.27.2",
 		"clsx": "^1.2.1",
